@@ -1,0 +1,27 @@
+.heading
+{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 5px grey;
+}
+.heading_div
+{
+    float:none;
+    background:indigo;
+    padding:10px;
+    border-radius:20px;
+    color:lawngreen;
+    box-shadow:5px 5px 5px grey;
+}
+.heading_div2
+{
+    font-size:18px;
+}
+canvas
+{
+    border:5px solid greenyellow;
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    margin-top:150px;
+}
